@@ -1,0 +1,9 @@
+alias md='mkdir -p'
+alias rd=rmdir
+alias sl=ls
+alias lss=ls
+alias rm='rm -i'
+alias v=nvim
+alias vi=nvim
+alias vim=nvim
+

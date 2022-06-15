@@ -1,0 +1,7 @@
+alias myproxy='source /home/rin/scripts/set_wsl_proxy.sh'
+myproxy set
+
+alias FIGNORE=.dll:.DLL
+
+
+cd ~
